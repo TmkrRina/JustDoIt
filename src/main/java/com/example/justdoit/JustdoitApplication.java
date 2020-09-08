@@ -10,4 +10,5 @@ public class JustdoitApplication {
 		SpringApplication.run(JustdoitApplication.class, args);
 	}
 
+
 }
